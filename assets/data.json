@@ -1,0 +1,69 @@
+{
+    "name": "Emad Alyaki",
+    "email": "s.emadaltaki@gmail.com",
+    "subtitles": [
+        "Software Engineer",
+        "Flutter Developer"
+
+    ],
+    "blackWhitePhotoURL": "",
+    "coloredPhotoURL": "",
+    "socialLinks": [{
+            "platform": "facebook",
+            "url": "https://www.facebook.com/emad.s.altaki"
+        },
+        {
+            "platform": "instagram",
+            "url": "https://www.instagram.com/emadove/"
+        },
+
+        {
+            "platform": "linkedin",
+            "url": "https://ca.linkedin.com/in/emad-altaki"
+        },
+        {
+            "platform": "github",
+            "url": "https://github.com/emadaltaki"
+        }
+
+    ],
+    "aboutMeHeadline": "I'm Emad Altaki, a Software engineer and a flutter developer",
+    "aboueMeDetails": "",
+    "technologies": [
+        "Flutter",
+        "Dart",
+        "Python",
+        "Java",
+        "C++",
+        "Flask"
+    ],
+    "services": [{
+            "icon": "assets/services/app.png",
+            "name": "Mobile App Development",
+            "description": "Android app development via Flutter\n- Splash Screen\n- Firebase Auth/Cloud\n- REST APIs\n- Maps integration and more...!"
+        }
+
+    ],
+    "hireMe": {
+        "whatsapp": "4169955347"
+    },
+    "projects": [{
+        "title": "Awesome SnackBar",
+        "iconUrl": "https://drive.google.com/file/d/1EohcZdd5mg5dqHQIn24k_G0dpqQTFYwV/view?usp=sharing",
+        "bannerUrl": "assets/projects/medkitB.png",
+        "description": "A dart package including a wholesome experience of snackbar in your applications."
+    }],
+    "contact": [{
+            "param": "address",
+            "value": "Ontario, Canada"
+        },
+        {
+            "param": "phone",
+            "value": "+14169955347"
+        },
+        {
+            "param": "email",
+            "value": "s.emadaltaki@gmail.com"
+        }
+    ]
+}
