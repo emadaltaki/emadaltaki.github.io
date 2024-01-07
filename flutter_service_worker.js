@@ -26,7 +26,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "f20bd81ed3e82fc791fade4ec7814971
 "assets/assets/services/ui.png": "3cf727247752b730a05f51fe0177036f",
 "assets/assets/work/lassonde-logo.png": "d41bccb2fa8f260363f17fa9f726b482",
 "assets/assets/work/skinopathy.png": "41452684867ab7d357fe37bec17e127a",
-"assets/data.json": "92e7842dd6811b7adc1de2de5020a445",
+"assets/data.json": "9102a72237462929d0a1885fad6ca400",
 "assets/FontManifest.json": "eb13a0d169d41e78994c5d6eb9075409",
 "assets/fonts/agustina/agustina.otf": "7b9833076716a8d14eec0cf885a3153c",
 "assets/fonts/MaterialIcons-Regular.otf": "04a71a440d0f124521ce25f2698790ca",
@@ -82,7 +82,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "f20bd81ed3e82fc791fade4ec7814971
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "index.html": "2f8ed006ce885178fcee6ae5b59896e4",
 "/": "2f8ed006ce885178fcee6ae5b59896e4",
-"main.dart.js": "50387c44faf5f5c0a2ebbe1978131101",
+"main.dart.js": "bdcb71072ed6415ed163cbe068097b6b",
 "manifest.json": "3a0d2eeda06929c92b0d5d9365441dee",
 "version.json": "a29e8b22a08aa0274b027931eec216c4"};
 // The application shell files that are downloaded before a service worker can

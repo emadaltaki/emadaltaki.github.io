@@ -2,8 +2,10 @@
     "name": "Emad Alyaki",
     "email": "s.emadaltaki@gmail.com",
     "subtitles": [
-        "Software Engineer",
-        "Flutter Developer"
+        "Computer Engineer",
+        "Front-End Developer",
+        "Back-End Developer"
+
 
     ],
     "blackWhitePhotoURL": "",
@@ -27,7 +29,7 @@
         }
 
     ],
-    "aboutMeHeadline": "I'm Emad Altaki, a Software engineer and a flutter developer",
+    "aboutMeHeadline": "",
     "aboueMeDetails": "",
     "technologies": [
         "Flutter",
